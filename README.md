@@ -11,13 +11,17 @@ ______  _____   ___   _   _  _____  _____    ___  _____ __   __
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beaniejoy&layout=compact&theme=merko&exclude_repo=R_programming,galaxy-ai-contest,beaniejoy.github.io)](https://github.com/anuraghazra/github-readme-stats)
  -->
- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=beaniejoy&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaniejoy&layout=compact&theme=merko&exclude_repo=R_programming,galaxy-ai-contest,beaniejoy.github.io" />
-</a>
+<div>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beaniejoy&show_icons=true&theme=merko" />
+ </a>
+</div>
+<br>
+<div>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaniejoy&layout=compact&theme=merko&exclude_repo=R_programming,galaxy-ai-contest,beaniejoy.github.io" />
+ </a>
+</div>
 
 
 
