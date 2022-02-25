@@ -7,8 +7,17 @@ ______  _____   ___   _   _  _____  _____    ___  _____ __   __
 | |_/ /| |___ | | | || |\  | _| |_ | |___ /\__/ /\ \_/ /  | |  
 \____/ \____/ \_| |_/\_| \_/ \___/ \____/ \____/  \___/   \_/  
 ```
+<!-- ![Beaniejoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaniejoy&show_icons=true&theme=merko)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beaniejoy&exclude_repo=R_programming,galaxy-ai-contest,beaniejoy.github.io)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beaniejoy&layout=compact&theme=merko&exclude_repo=R_programming,galaxy-ai-contest,beaniejoy.github.io)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=beaniejoy&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaniejoy&layout=compact&theme=merko&exclude_repo=R_programming,galaxy-ai-contest,beaniejoy.github.io" />
+</a>
 
 
 
