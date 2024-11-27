@@ -25,12 +25,6 @@ ______  _____   ___   _   _  _____  _____    ___  _____ __   __
 -->
 <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=beaniejoy&show_icons=true&theme=merko" />
- </a>
-</div>
-<br>
-<div>
- <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beaniejoy&langs_count=8&layout=compact&theme=merko&exclude_repo=R_programming,galaxy-ai-contest,beaniejoy.github.io" />
  </a>
 </div>
