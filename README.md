@@ -1,12 +1,4 @@
 
-```
-______  _____   ___   _   _  _____  _____    ___  _____ __   __
-| ___ \|  ___| / _ \ | \ | ||_   _||  ___|  |_  ||  _  |\ \ / /
-| |_/ /| |__  / /_\ \|  \| |  | |  | |__      | || | | | \ V / 
-| ___ \|  __| |  _  || . ` |  | |  |  __|     | || | | |  \ /  
-| |_/ /| |___ | | | || |\  | _| |_ | |___ /\__/ /\ \_/ /  | |  
-\____/ \____/ \_| |_/\_| \_/ \___/ \____/ \____/  \___/   \_/  
-```
 <!-- ![Beaniejoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaniejoy&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beaniejoy&layout=compact&theme=merko&exclude_repo=R_programming,galaxy-ai-contest,beaniejoy.github.io)](https://github.com/anuraghazra/github-readme-stats)
